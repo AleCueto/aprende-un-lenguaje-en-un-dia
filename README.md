@@ -48,7 +48,8 @@ C# es un lenguaje desarrollado en el año 2000 por Microsoft.
 Su sintáxis se basa en C/C++-
 Su gran ventaja se basa en su uso para la plataforma .NET, también desarrollada por Microsoft.
 Aunque se use en .NET C# es un lenguaje independiente, por lo que también se usa para otros propósitos como por ejemplo el desarrollo de videojuegos en el 
-game engine unity.
+game engine unity. ![imagen](https://user-images.githubusercontent.com/91873580/146737268-9b51e6c4-91f3-4324-8d34-d45d2ef60017.png)
+
 
 ## Herramientas de desarrollo
 
