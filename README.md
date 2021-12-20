@@ -128,7 +128,7 @@ Realiza un programa que rellene un array (o una estructura similar) con 20 núme
 
 ## Presentación de resultados
 
-Cada equipo explicará al resto de la clase lo aprendido durante la realización del ejercicio. Todos los miembros de cada equipo deben participar en la explicación. Se puede utilizar como material de base para la presentación el repositorio de GitHub.
+Los ejercicios que hemos tenido que hacer en C# se nos han hecho realmente sencillos. Esto es porque una vez aprendida la lógica detras de las senctencias básicas (bucles, condiciones arrays...) es la misma a la aprendida en clase y porque la sintáxis de C# a este nivel es muy parecida a la de java (lenguaje estudiado).
 
 ## Recompensa
 
