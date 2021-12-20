@@ -44,8 +44,11 @@ Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf
 
 ## Información sobre el lenguaje
 
-
-Busca páginas y/o manuales sobre el lenguaje de programación elegido. Escribe aquí las principales características: cuándo y para qué se creó, en qué ámbito se utiliza, cuáles son sus principales ventajas, etc. Pon aquí enlaces y capturas de pantalla.
+C# es un lenguaje desarrollado en el año 2000 por Microsoft. 
+Su sintáxis se basa en C/C++-
+Su gran ventaja se basa en su uso para la plataforma .NET, también desarrollada por Microsoft.
+Aunque se use en .NET C# es un lenguaje independiente, por lo que también se usa para otros propósitos como por ejemplo el desarrollo de videojuegos en el 
+game engine unity.
 
 ## Herramientas de desarrollo
 
