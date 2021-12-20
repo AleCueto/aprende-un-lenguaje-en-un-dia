@@ -125,6 +125,9 @@ namespace piramide
 }
 }
 ```
+![imagen](https://user-images.githubusercontent.com/91873580/146737629-79326c11-8340-4b4d-9e87-1749be1fee0c.png)
+
+
 ### 3. Arrays y números aleatorios
 
 Realiza un programa que rellene un array (o una estructura similar) con 20 números enteros aleatorios entre 1 y 100 y que seguidamente los muestre por pantalla. A continuación, se deben pasar los números primos a las primeras posiciones del array y los no primos a las posiciones restantes. Muestra finalmente el array resultado.
