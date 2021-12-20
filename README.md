@@ -68,6 +68,46 @@ Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
 
 Dada una altura introducida por el usuario, realiza un programa que pinte una pirámide a base de asteriscos con la altura indicada.
 
+```C#
+using System;
+
+namespace piramide
+{
+    class Program
+{
+    static void Main(string[] args)
+    {
+        int altura = 0;
+        int caracteres = 1;
+        Console.WriteLine("Vamos a pintar una pirámide!");    
+        Console.WriteLine("Introduce la altura!");    
+        altura = Convert.ToInt32(Console.ReadLine());
+        int espacios = altura;
+
+        for(int i = 0; i < altura; i++){
+            PintarEspacio(espacios);
+            espacios--;
+            PintarCaracter(caracteres);
+            caracteres+=2;
+
+            Console.WriteLine();
+        }
+    }
+
+    private static void PintarCaracter( int caracteres){
+        for(int i = 0; i < caracteres; i++){
+            Console.Write("*");
+        }
+    }
+
+    private static void PintarEspacio( int espacios){
+        for(int i = 0; i < espacios; i++){
+            Console.Write(" ");
+        }
+    }
+}
+}
+```
 ### 3. Arrays y números aleatorios
 
 Realiza un programa que rellene un array (o una estructura similar) con 20 números enteros aleatorios entre 1 y 100 y que seguidamente los muestre por pantalla. A continuación, se deben pasar los números primos a las primeras posiciones del array y los no primos a las posiciones restantes. Muestra finalmente el array resultado.
