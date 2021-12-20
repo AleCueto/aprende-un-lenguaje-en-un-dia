@@ -58,6 +58,7 @@ game engine unity.
 Vamos a usar Visual Studio Code, al crear un archivo.cs nos dice que necesitamos la extensión C#. 
 Luego nos indica que nos falta el paquete de herramientas para C# (Software Development Kit):
 Nos descargamos .NET Core SDK desde [aquí](https://dotnet.microsoft.com/en-us/download/dotnet/sdk-for-vs-code)
+Para compilar online: https://www.onlinegdb.com/online_csharp_compiler
 
 ## Poniendo en práctica el lenguaje
 
