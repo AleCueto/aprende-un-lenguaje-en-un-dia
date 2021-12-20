@@ -49,10 +49,9 @@ Su sintáxis se basa en C/C++-
 Su gran ventaja se basa en su uso para la plataforma .NET, también desarrollada por Microsoft.
 Aunque se use en .NET C# es un lenguaje independiente, por lo que también se usa para otros propósitos como por ejemplo el desarrollo de videojuegos en el 
 game engine unity. 
-
+ 
 ![imagen](https://user-images.githubusercontent.com/91873580/146737268-9b51e6c4-91f3-4324-8d34-d45d2ef60017.png)
-![imagen](https://user-images.githubusercontent.com/91873580/146737392-219e2680-ee52-49d2-b20d-be5cc7f30097.png)
-
+![imagen](https://user-images.githubusercontent.com/91873580/146737497-e732764c-f20b-47ce-a993-99db912f9eaa.png)
 
 ## Herramientas de desarrollo
 
