@@ -81,6 +81,9 @@ namespace HelloWorld
   }
 }
 ```
+![imagen](https://user-images.githubusercontent.com/91873580/146737775-e44abc52-b487-49f4-9070-3418db723ea8.png)
+
+
 ### 2. Pirámide
 
 Dada una altura introducida por el usuario, realiza un programa que pinte una pirámide a base de asteriscos con la altura indicada.
